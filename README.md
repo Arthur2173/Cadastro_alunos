@@ -30,3 +30,19 @@ Python 3
 JSON para não perder os dados quando o projeto for finalizado
 
 Programação Orientada a Objetos (POO)
+
+
+                                            OBJETIVO DO CÓDIGO
+                                            
+
+Este projeto foi desenvolvido com o objetivo de revisar e praticar os conteúdos aprendidos em Python, incluindo:
+
+Listas e dicionários
+
+Funções
+
+Lógica de programação
+
+Programação Orientada a Objetos (POO)
+
+Manipulação de arquivos para salvar os dados do programa
