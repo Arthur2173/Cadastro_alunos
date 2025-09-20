@@ -6,7 +6,7 @@ Este projeto é um sistema básico de cadastro de alunos, desenvolvido em Python
 Ele permite cadastrar, listar, buscar, atualizar notas e calcular a média da turma.
 
 
-funcionalidades:
+                                                 FUNCIONALIDADES:
 
 Cadastrar alunos (nome e nota)
 
@@ -22,8 +22,7 @@ Calcular a média da turma
 
 Salvar e carregar os dados automaticamente em JSON
 
-
-foi utilizado neste codigo:
+                                            FOI USADO NESTE CODIGO:
 
 
 Python 3
